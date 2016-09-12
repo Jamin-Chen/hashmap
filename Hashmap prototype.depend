@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1473566241 source:c:\users\jamin\documents\accelerated c++ exercises\hashmap prototype\list.cpp
+	<cstdlib>
+	<string>
+	<iostream>
+	"list.h"
+
+1473563229 c:\users\jamin\documents\accelerated c++ exercises\hashmap prototype\list.h
+	<string>
+
+1473645996 source:c:\users\jamin\documents\accelerated c++ exercises\hashmap prototype\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<fstream>
+	"hashmap.h"
+
+1473704983 source:c:\users\jamin\documents\accelerated c++ exercises\hashmap prototype\hashmap.cpp
+	<cstdlib>
+	<climits>
+	<string>
+	<iostream>
+	"hashmap.h"
+
+1473705020 c:\users\jamin\documents\accelerated c++ exercises\hashmap prototype\hashmap.h
+	<vector>
+
