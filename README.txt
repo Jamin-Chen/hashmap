@@ -7,6 +7,4 @@
 Thanks!
 
 Jamin Chen
-jaminche@usc.edu
-(510)709-7941
   
