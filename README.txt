@@ -1,4 +1,4 @@
-C++ fixed size hashmap that associates string keys with arbitrary data object references
+C++ fixed size hashmap that associates string keys with arbitrary data object references. Coded using only primitive types.
 
 Instructions:
 1. Unzip hashmap.zip and navigate to the newly created directory.
